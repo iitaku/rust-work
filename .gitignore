@@ -1,3 +1,5 @@
-test
 *.rlib
+.gdb_history
+test
 hello
+list
